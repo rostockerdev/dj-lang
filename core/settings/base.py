@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 #     APPLICATION CONFIGURATION           #
 ###########################################
 LOCAL_APPS = [
-    # "pages.apps.PagesConfig",
+    "course.apps.CourseConfig",
 ]
 
 THIRDPARTY_APPS = [
@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 #        INTERNATIONALIZATION             #
 ###########################################
 
-LANGUAGE_CODE = "en-us"
+# LANGUAGE_CODE = "en-us"
 
 TIME_ZONE = "UTC"
 
