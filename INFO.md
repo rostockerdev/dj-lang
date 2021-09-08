@@ -1,6 +1,3 @@
-**Support Multiple Languages in Django**
-----------------------------------------
-
 **Objectives**
 
 ## Explain the difference between internationalization and localization

@@ -25,9 +25,8 @@ node_modules/
 build
 
 # Environment Variables
-# .env 
+.env 
 
 # Assets
 assets/
 requirements.txt
-Info.md
